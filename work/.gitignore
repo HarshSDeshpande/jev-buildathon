@@ -1,7 +1,7 @@
 # Run logs, scores and generated/scratch files stay local.
 baseline/
 run*/
-final/
+final*/
 evals/scores-*.txt
 replay/policy.mjs
 legal-policies*.mjs
